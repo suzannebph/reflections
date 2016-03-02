@@ -31,3 +31,23 @@ you can create a separate branch for your new changes and you can still keep a
 'clean' copy of your previous code. In case there are changes needed to be
 applied to production code for example, you can just apply it to your prod
 branch.
+
+5. How do the diagrams help you visualize the branch structure?
+
+By looking at the diagram, you'll be able to see the commits that are
+reacheable and those that are not. You can also see at want point a branch,
+er, branches out from the main or master branch.
+
+6. What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+
+The result of merging two branches together is the combination of all changes
+in the branches to one branch. It is represented that way since both 'paths'
+form the previously separate branch are now reachable in our new merged
+branch.
+
+7. What are the pros and cons of Git's automatic merging vs. always doing
+merges manually?
+
+Saves time when merging changes from 2 branches specially if you only have
+simple changes.
