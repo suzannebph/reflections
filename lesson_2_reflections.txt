@@ -1,0 +1,15 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+It creates a git metadata to track the changes in your repository.
+
+2. How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+Working directory - your local copy
+Repository - repository in Git/CLoud
+Staging area - area in between your repository and working directory where you
+can temporarily add your changes.
+
+It offers ability to see a snapshot of all your changes from the files on the
+repository and your working directory. Additionally, it offers a temporary
+place for these changes so in case you want to remove them, you can do so.
