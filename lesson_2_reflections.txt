@@ -19,3 +19,15 @@ logical change?
 
 Add all the files/changes for one logical change to the staging area as you go
 along. Commit when all the needed changes for that logical change is done.
+
+4. What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+Branches will be helpful when you're adding a temporary feature that you're
+not sure that will be used or if you have a new project that will add a new
+feature to your code but you also need to keep a "clean" code that represents
+the code that exists in production. Branches would help in these cases since
+you can create a separate branch for your new changes and you can still keep a
+'clean' copy of your previous code. In case there are changes needed to be
+applied to production code for example, you can just apply it to your prod
+branch.
