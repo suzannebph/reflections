@@ -10,3 +10,18 @@ to your local repository. Maybe you want to finish all your modifications
 first so you don't want to introduce the new changes first. Or maybe you found
 a bug so you want to check if it's already fixed by others in the remote
 repository.
+
+3. Describe the difference between forks, clones, and branches. When would you
+use one instead of another?
+
+Branches - a different branch of your local repository that might include some
+changes from the master. You'll use this if you just want to add a new feature
+or makes some changes that you want to branch away from your main code.
+Clones - a copy of the whole repository in your local. This may include one or
+more branches. You'll use this if you want a local copy of a remote repository
+or you want to keep your original repository intact and you're drastically
+modifying your code.
+Forks - a copy of your remote repository (or a clone of a repository in
+GitHub). You use this if you want to keep a remote copy of your repository
+intact. 
+
