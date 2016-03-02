@@ -13,3 +13,9 @@ can temporarily add your changes.
 It offers ability to see a snapshot of all your changes from the files on the
 repository and your working directory. Additionally, it offers a temporary
 place for these changes so in case you want to remove them, you can do so.
+
+3. How can you use the staging area to make sure you have one commit per
+logical change?
+
+Add all the files/changes for one logical change to the staging area as you go
+along. Commit when all the needed changes for that logical change is done.
