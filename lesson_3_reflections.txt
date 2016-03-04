@@ -29,3 +29,11 @@ intact.
 stored locally?
 
 You can work offline.
+
+5. How would you collaborate without using Git or GitHub? What would be
+easier, and what would be harder?
+
+Without Git or GitHub, you can personally ask the person to check your local
+code to collaborate. Or maybe use email. This would be harder and tedious
+since it's harder to keep track and would require collaborators to be in the
+same location just to check the code.
