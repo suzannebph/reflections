@@ -25,3 +25,7 @@ Forks - a copy of your remote repository (or a clone of a repository in
 GitHub). You use this if you want to keep a remote copy of your repository
 intact. 
 
+4. What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+You can work offline.
