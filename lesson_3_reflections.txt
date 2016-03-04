@@ -37,3 +37,13 @@ Without Git or GitHub, you can personally ask the person to check your local
 code to collaborate. Or maybe use email. This would be harder and tedious
 since it's harder to keep track and would require collaborators to be in the
 same location just to check the code.
+
+6. When would you want to make changes in a separate branch rather than
+directly in master? What benefits does each approach have?
+
+You can make changes in a branch if there are more than 1 person making
+changes in the code. This will ensure proper merging of code modifications and
+that the 'prod quality' code is always working.
+
+You can do it in one branch only (master) maybe if there is only 1 developer
+so it won't be that tedious when tracking the changes.
